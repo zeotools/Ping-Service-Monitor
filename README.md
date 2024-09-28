@@ -1,6 +1,6 @@
 # Ping Service Monitor
 
-Ping Service Monitor, belirli RSS beslemelerindeki en son konuları izleyip, belirli ping servislerine bildirim gönderen bir Python uygulamasıdır. Bu proje, web sitelerinin güncellemelerini takip etmek ve otomatik olarak ping servislerine bildirim göndermek isteyen geliştiriciler için kullanışlıdır. xenforu siteleri için uygundur örneğin: https://enuygunfirmalar.com/sitemap-2.xml
+Ping Service Monitor, belirli RSS beslemelerindeki en son konuları izleyip, belirli ping servislerine bildirim gönderen bir Python uygulamasıdır. Bu proje, web sitelerinin güncellemelerini takip etmek ve otomatik olarak ping servislerine bildirim göndermek isteyen geliştiriciler için kullanışlıdır. xenforo siteleri için uygundur örneğin: https://enuygunfirmalar.com/sitemap-2.xml
 
 ## Özellikler
 

@@ -22,4 +22,6 @@ Bu kütüphaneleri yüklemek için aşağıdaki komutu kullanabilirsiniz:
 ```bash
 pip install feedparser requests
 
+
+
 Linkler.txt içeriğindeki linkler bu yapıda olmalıdır. https://enuygunfirmalar.com/forums/-/index.rss
